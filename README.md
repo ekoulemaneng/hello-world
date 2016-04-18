@@ -1,2 +1,3 @@
 # hello-world
-Débutant dans Github
+Débutant dans Github.
+Je ne fais que commencer.
